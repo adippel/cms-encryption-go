@@ -1,11 +1,11 @@
-# CMS Encryption in Go using OpenSSL and CGO
+# CMS Encryption in Go: Secure Data with OpenSSL and CGO
 
 This project demonstrates how to perform CMS (Cryptographic Message Syntax) encryption in Go using OpenSSL’s `libcrypto`
 via CGO. It includes a simple command-line tool that encrypts a message for a recipient using their X.509 certificate,
 producing a `.p7m` CMS/PKCS#7 message.
 
 📖 This is companion code for the blog post:
-[CMS Encryption in Go: How to Encrypt Data with OpenSSL using CGO](https://alexdippel.de/2025/07/cms-encryption-in-go-how-to-encrypt-data-with-openssl-using-cgo/)
+[CMS Encryption in Go: Secure Data with OpenSSL and CGO](https://alexdippel.de/2025/07/cms-encryption-in-go-secure-data-with-openssl-and-cgo/)
 
 ## Features
 
